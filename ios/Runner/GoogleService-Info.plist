@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>30176568143-d7jbh3s62omb3atqe615q6mvm21ko7v5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.30176568143-d7jbh3s62omb3atqe615q6mvm21ko7v5</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>30176568143-dee63qc9rf5b7e25jq7tm2dehhk5lkhf.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDqqubBAKpKOePLH5EM9qhhUO45qWEh3Cc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>30176568143</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.retos.app.retosAppv4</string>
+	<key>PROJECT_ID</key>
+	<string>lofty-hybrid-150412</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lofty-hybrid-150412.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:30176568143:ios:93f33b5eddd4cd80</string>
+	<key>DATABASE_URL</key>
+	<string>https://lofty-hybrid-150412.firebaseio.com</string>
+</dict>
+</plist>

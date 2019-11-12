@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "30176568143",
+    "firebase_url": "https://lofty-hybrid-150412.firebaseio.com",
+    "project_id": "lofty-hybrid-150412",
+    "storage_bucket": "lofty-hybrid-150412.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30176568143:android:924e8ba34824c4e0",
+        "android_client_info": {
+          "package_name": "com.retos.app.app_retos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30176568143-51b650th6pqpue4pcs6a2tssi1slh865.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.retos.app.app_retos",
+            "certificate_hash": "682a676d9181be20e5c25f338b2cbb4a594e1013"
+          }
+        },
+        {
+          "client_id": "30176568143-9rv62qkpjqeg57lu2ev308ng49v6u2j3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvJQ8trd_o_uvxoR-RRiydePuKAhuRO78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30176568143-9rv62qkpjqeg57lu2ev308ng49v6u2j3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "30176568143-69ek50bu1erdmdda6p7lioif5p8mvhe1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30176568143:android:c2d60ed48cbcfd98",
+        "android_client_info": {
+          "package_name": "com.retos.app.retos_appv4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30176568143-dee63qc9rf5b7e25jq7tm2dehhk5lkhf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.retos.app.retos_appv4",
+            "certificate_hash": "682a676d9181be20e5c25f338b2cbb4a594e1013"
+          }
+        },
+        {
+          "client_id": "30176568143-9rv62qkpjqeg57lu2ev308ng49v6u2j3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvJQ8trd_o_uvxoR-RRiydePuKAhuRO78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30176568143-9rv62qkpjqeg57lu2ev308ng49v6u2j3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "30176568143-69ek50bu1erdmdda6p7lioif5p8mvhe1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
